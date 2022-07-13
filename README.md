@@ -1,7 +1,6 @@
-# WindowsActivation
-Windows activation code
+### Windows activation code for free
 
-## Usage
+### Usage
 - Disable the antivirus
 - Run the bat file as administrator
 
