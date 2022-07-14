@@ -1,8 +1,10 @@
 ### Windows activation code for free
+- Windows 10
+- Windows 11
 
 ### Usage
-- Disable the antivirus
-- Run the bat file as administrator
+- Turn off antivirus
+- Run activate.bat file as administrator
 
-### Resource
-- https://getproductkey.net/how-to-activate-windows-10-without-product-key-free-2019/
+### Resources
+- https://getproductkey.net/how-to-activate-windows-10-without-product-key-free-2019
